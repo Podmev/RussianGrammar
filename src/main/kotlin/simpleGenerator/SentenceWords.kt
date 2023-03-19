@@ -1,3 +1,5 @@
+package simpleGenerator
+
 class SentenceWords(
 //    val sentenceType: String, //заменить на enum
 //    val questionWord: String?,

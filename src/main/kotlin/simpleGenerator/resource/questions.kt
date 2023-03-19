@@ -1,4 +1,4 @@
-package resource
+package simpleGenerator.resource
 
 val questionWords = listOf<String>(
     "Когда",

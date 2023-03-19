@@ -1,4 +1,4 @@
-package resource
+package simpleGenerator.resource
 
 val pronounWords = listOf<String>(
     "Я",

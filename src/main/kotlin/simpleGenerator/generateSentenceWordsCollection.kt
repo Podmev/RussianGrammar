@@ -1,7 +1,7 @@
-import resource.adjectiveWords
-import resource.subjectWords
-import resource.substantiveWords
-import resource.verbWords
+import simpleGenerator.resource.adjectiveWords
+import simpleGenerator.resource.subjectWords
+import simpleGenerator.resource.substantiveWords
+import simpleGenerator.resource.verbWords
 
 fun generateSentenceWordsCollection(size: Int): List<SentenceWords>{
     val list:MutableList<SentenceWords> = ArrayList<SentenceWords>()
